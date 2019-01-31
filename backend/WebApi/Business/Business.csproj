@@ -9,6 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="EntityFramework" Version="6.2.0" />
     <PackageReference Include="Unity.AspNet.WebApi" Version="5.9.0" />
   </ItemGroup>
 
